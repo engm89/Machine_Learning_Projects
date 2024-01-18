@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-The table below shows a list of projects on various topics that I implement, and this update will be updated continuity.
+The table below shows a list of projects on various topics that I implemented, and this update will be updated continuity.
 
 |       Project       |    Target Algorithm    |   Status  | Link |
 | :-----------------: | :--------------------: | :-------: | :--: |
