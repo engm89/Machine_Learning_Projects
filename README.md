@@ -13,6 +13,10 @@ The table below shows a list of projects on various topics that I implemented, a
 | Spam Mail Detection |   Logistic Regression  | Completed |  [🔗](https://github.com/engm89/Machine_Learning_Projects/tree/main/Spam_Mail_Detection)   |
 | Customer Segmentation|   K-Mean   | Completed |  [🔗](https://github.com/engm89/Machine_Learning_Projects/tree/main/Customer_Segmentation)   |
 | Calories Burnt|   XGBoost   | Completed |  [🔗](https://github.com/engm89/Machine_Learning_Projects/tree/main/Calories_Burnt)   |
+| Graduate Admission|   XGBoost   | Completed |  [🔗](https://github.com/engm89/Machine_Learning_Projects/tree/main/Graduate_Admission)   |
+| Student Evaluation|   XGBoost   | Completed |  [🔗](https://github.com/engm89/Machine_Learning_Projects/tree/main/Student_Evaluation)   |
+
+
 
 
 
