@@ -18,7 +18,7 @@ The table below shows a list of projects on various topics that I implemented, a
 | Medical Insurance Prediction|   Random Forest Regression   | Completed |  [🔗](https://github.com/engm89/Machine_Learning_Projects/tree/main/Medical_Insurance_Prediction)   |
 | Rain Prediction |   Random Forest Classifierost   | Completed |  [🔗](https://github.com/engm89/Machine_Learning_Projects/tree/main/Rain_Prediction)   |
 | Car Price |   XGBoost   | Completed |  [🔗](https://github.com/engm89/Machine_Learning_Projects/tree/main/Car_Price_Prediction)   |
-| Adult income |   ---   | --- |  [🔗](https://github.com/engm89/Machine_Learning_Projects/tree/main/Adult_Income_Prediction)   |
+| Adult income |   XGBClassifier   | Completed |  [🔗](https://github.com/engm89/Machine_Learning_Projects/tree/main/Adult_Income_Prediction)   |
 
 
 
